@@ -1,0 +1,26 @@
+ol{
+    font-style: italic;
+}
+
+ul{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.title.big {
+    text-align: center;
+    font-style: italic;
+}
+
+.title{
+    background-color: aqua;
+    color: blueviolet;
+}
+
+.line{
+    font-style: italic;
+}
+
+img{
+    height: auto;
+    width: 200px;
+}
